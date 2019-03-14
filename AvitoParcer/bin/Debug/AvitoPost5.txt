@@ -1,0 +1,8 @@
+{
+  "Name": "Audi Q3, 2013",
+  "Price": "\r\n 1 380 000  RUB",
+  "AdditionalInfo": "\r\n  74 000 км, 2.0 AT (170 л.с.), внедорожник, полный, бензин  ",
+  "Date": "   27 ноября 00:02 ",
+  "ImgLinks": [],
+  "Link": "https://www.avito.ru/istra/avtomobili/audi_q3_2013_1120773818"
+}

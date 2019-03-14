@@ -1,0 +1,14 @@
+{
+  "Name": "Audi Q5, 2011",
+  "Price": "\r\n 950 000  RUB",
+  "AdditionalInfo": "\r\n  122 000 км, 2.0 AT (211 л.с.), внедорожник, полный, бензин  ",
+  "Date": "   Вчера 16:43 ",
+  "ImgLinks": [
+    "97.img.avito.st/208x156/3966699797.jpg",
+    "93.img.avito.st/208x156/3966699793.jpg",
+    "07.img.avito.st/208x156/3966699907.jpg",
+    "94.img.avito.st/208x156/3966699994.jpg",
+    "11.img.avito.st/208x156/3966700111.jpg"
+  ],
+  "Link": "https://www.avito.ru/istra/avtomobili/audi_q5_2011_936909249"
+}

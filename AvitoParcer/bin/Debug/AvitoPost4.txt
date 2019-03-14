@@ -1,0 +1,14 @@
+{
+  "Name": "Audi A6, 2010",
+  "Price": "\r\n 750 000  RUB",
+  "AdditionalInfo": "\r\n  85 000 км, 2.8 AT (220 л.с.), седан, полный, бензин  ",
+  "Date": "   28 ноября 21:03 ",
+  "ImgLinks": [
+    "48.img.avito.st/208x156/5053082948.jpg",
+    "34.img.avito.st/208x156/3531379934.jpg",
+    "63.img.avito.st/208x156/5053082963.jpg",
+    "90.img.avito.st/208x156/5053082990.jpg",
+    "06.img.avito.st/208x156/5053083006.jpg"
+  ],
+  "Link": "https://www.avito.ru/istra/avtomobili/audi_a6_2010_884696492"
+}

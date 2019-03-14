@@ -1,0 +1,14 @@
+{
+  "Name": "Audi Q5, 2008",
+  "Price": "\r\n 710 000  RUB",
+  "AdditionalInfo": "\r\n  160 000 км, 2.0 AT (211 л.с.), хетчбэк, полный, бензин  ",
+  "Date": "   28 ноября 16:04 ",
+  "ImgLinks": [
+    "35.img.avito.st/208x156/5019688635.jpg",
+    "61.img.avito.st/208x156/5019688661.jpg",
+    "61.img.avito.st/208x156/5019686461.jpg",
+    "86.img.avito.st/208x156/5019686486.jpg",
+    "15.img.avito.st/208x156/5019686515.jpg"
+  ],
+  "Link": "https://www.avito.ru/istra/avtomobili/audi_q5_2008_1635524215"
+}

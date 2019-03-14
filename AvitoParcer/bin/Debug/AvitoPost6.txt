@@ -1,0 +1,8 @@
+{
+  "Name": "Audi A4, 1999",
+  "Price": "\r\n 235 000  RUB",
+  "AdditionalInfo": "\r\n  60 000 км, 2.4 MT (165 л.с.), седан, полный, бензин  ",
+  "Date": "   19 ноября 11:48 ",
+  "ImgLinks": [],
+  "Link": "https://www.avito.ru/istra/avtomobili/audi_a4_1999_1387321989"
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "Audi A5, 2010",
+  "Price": "\r\n 600 000  RUB",
+  "AdditionalInfo": "\r\n  105 000 км, 1.8 CVT (160 л.с.), купе, передний, бензин  ",
+  "Date": "   11 ноября 09:51 ",
+  "ImgLinks": [],
+  "Link": "https://www.avito.ru/istra/avtomobili/audi_a5_2010_982316895"
+}

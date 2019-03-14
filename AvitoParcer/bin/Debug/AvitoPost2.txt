@@ -1,0 +1,14 @@
+{
+  "Name": "Audi A7, 2011",
+  "Price": "\r\n 1 550 000  RUB",
+  "AdditionalInfo": "\r\n  136 000 км, 3.0 AT (245 л.с.), хетчбэк, полный, дизель  ",
+  "Date": "   5 декабря 22:39 ",
+  "ImgLinks": [
+    "44.img.avito.st/208x156/4779967144.jpg",
+    "46.img.avito.st/208x156/3465666046.jpg",
+    "68.img.avito.st/208x156/3465666068.jpg",
+    "71.img.avito.st/208x156/3465947671.jpg",
+    "24.img.avito.st/208x156/3613946424.jpg"
+  ],
+  "Link": "https://www.avito.ru/istra/avtomobili/audi_a7_2011_1145815010"
+}

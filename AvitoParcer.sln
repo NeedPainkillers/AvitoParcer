@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvitoParcer", "AvitoParcer\AvitoParcer.csproj", "{F40980D6-50BF-4BFC-9D8C-7E904B6EAF75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40980D6-50BF-4BFC-9D8C-7E904B6EAF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40980D6-50BF-4BFC-9D8C-7E904B6EAF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40980D6-50BF-4BFC-9D8C-7E904B6EAF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40980D6-50BF-4BFC-9D8C-7E904B6EAF75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {907A4B41-C21A-4494-8B64-C968C0436EA4}
+	EndGlobalSection
+EndGlobal

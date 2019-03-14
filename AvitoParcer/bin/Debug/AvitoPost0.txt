@@ -1,0 +1,14 @@
+{
+  "Name": "Audi A4, 1997",
+  "Price": "\r\n 166 666  RUB",
+  "AdditionalInfo": "\r\n  266 006 км, 1.8 AT (150 л.с.), седан, полный, бензин  ",
+  "Date": "   Вчера 22:40 ",
+  "ImgLinks": [
+    "70.img.avito.st/208x156/5058036270.jpg",
+    "62.img.avito.st/208x156/5059779062.jpg",
+    "04.img.avito.st/208x156/5058024904.jpg",
+    "90.img.avito.st/208x156/5058036290.jpg",
+    "70.img.avito.st/208x156/5059779070.jpg"
+  ],
+  "Link": "https://www.avito.ru/istra/avtomobili/audi_a4_1997_1452025626"
+}
